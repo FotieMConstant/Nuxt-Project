@@ -1,6 +1,6 @@
 <template>
   <v-img
-    src="https://c.wallhere.com/photos/fa/8d/rice_meat_dinner_vegetables-784517.jpg!d"
+    src="https://www.luxurymedia.co.za/wp-content/uploads/2018/05/Pic-2.jpeg"
     gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.7)"
     height="390"
   >

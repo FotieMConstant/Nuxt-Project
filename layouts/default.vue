@@ -5,7 +5,9 @@
       <nuxt />
     </v-main>
     <v-footer :absolute="!fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span
+        >&copy; PaveWay Technologies Inc. {{ new Date().getFullYear() }}</span
+      >
     </v-footer>
   </v-app>
 </template>
