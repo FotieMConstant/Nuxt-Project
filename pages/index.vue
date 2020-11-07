@@ -4,6 +4,9 @@
     <v-container>
       <Timeline />
     </v-container>
+    <Banner />
+    <More />
+    <Footer/>
   </span>
 </template>
 
